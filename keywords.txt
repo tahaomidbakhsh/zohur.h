@@ -1,0 +1,14 @@
+# Syntax Coloring Map For ZOHUR TV Library
+
+# ===== کلاس اصلی =====
+ZOHUR KEYWORD1
+
+# ===== متدها =====
+begin KEYWORD2
+loop KEYWORD2
+isPoweredOn KEYWORD2
+
+# ===== ثابت‌ها (اختیاری) =====
+OLED_ADDR LITERAL1
+SCREEN_WIDTH LITERAL1
+SCREEN_HEIGHT LITERAL1
